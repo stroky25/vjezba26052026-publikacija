@@ -28,7 +28,7 @@ public class Knjiga extends Publikacija {
                 naslov +
                 "', autora " +
                 autor +
-                ", godina izdanja = " +
+                ", godine izdanja " +
                 godinaizdanja +
                 ".";
     }
